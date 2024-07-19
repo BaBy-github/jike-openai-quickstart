@@ -1,13 +1,13 @@
-## Homework 
+# Homework 
 
-### 1.GPT-4V:手写图片读取 
+## 1.GPT-4V:手写图片读取 
 
 ![](./README/image.png)
 ```
 图中展示的是一个办公室。一位男士背对着镜头站在白板前，白板上写着“二营长，我意大利炮呢”，这句话是电视剧《亮剑》中的一句台词，男子可能想用这句话来指代自己想要做某件事。整个画面给人一种幽默、搞笑的感觉。
 ```
 
-### 2.openai-translator
+## 2.openai-translator
 
 ![](./README/image2.png)
 
@@ -34,5 +34,8 @@ difficult to construct due to the unique characteristics of the language.
 
 ---
 
-### 3.router-chain 扩展老师
+## 3.router-chain 扩展老师
 ![](./README/image3.png)
+
+## 4.sales_chatbot 小米su7销售
+![](./README/image4.png)
